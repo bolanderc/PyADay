@@ -1,0 +1,22 @@
+{
+    "entree" : {
+        "name" : "B747",
+        "wing_area" : 5500.0,
+        "wing_span" : 196.0
+    },
+    "side_savory" : {
+        "weight" : 636600.0,
+        "density" : 0.00089068,
+        "climb" : 0.0,
+        "bank" : 0.0,
+        "Mach_number" : 0.663,
+        "T_0" : 0.0,
+        "T^prime" : 0.0
+    },
+    "side_sweet" : {
+		"apples" : 'apples'
+	},
+	"desert" : {
+		"no-bake_cookies" : ["flour", "sugar"]
+	}
+}
